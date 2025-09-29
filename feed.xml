@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>testsite</title>
-    <link href="https://dozenhacker.at/feed.xml" rel="self" />
-    <link href="https://dozenhacker.at" />
-    <updated>2025-09-29T21:55:46+02:00</updated>
+    <link href="https://dozenhacker.com/feed.xml" rel="self" />
+    <link href="https://dozenhacker.com" />
+    <updated>2025-09-29T23:22:04+02:00</updated>
     <author>
         <name>jojo</name>
     </author>
-    <id>https://dozenhacker.at</id>
+    <id>https://dozenhacker.com</id>
 
+    <entry>
+        <title>second post</title>
+        <author>
+            <name>jojo</name>
+        </author>
+        <link href="https://dozenhacker.com/second-post.html"/>
+        <id>https://dozenhacker.com/second-post.html</id>
+
+        <updated>2025-09-29T23:22:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    test. the template is missing on cloudflare
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test. the template is missing on cloudflare</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>my first test</title>
         <author>
             <name>jojo</name>
         </author>
-        <link href="https://dozenhacker.at/my-first-test.html"/>
-        <id>https://dozenhacker.at/my-first-test.html</id>
+        <link href="https://dozenhacker.com/my-first-test.html"/>
+        <id>https://dozenhacker.com/my-first-test.html</id>
 
         <updated>2025-09-29T21:50:31+02:00</updated>
             <summary>
