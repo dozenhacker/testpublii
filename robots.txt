@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://82816140.testpublii-2xt.pages.dev/sitemap.xml
+Sitemap: https://dozenhacker.com/sitemap.xml
