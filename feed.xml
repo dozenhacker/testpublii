@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>testsite</title>
-    <link href="https://dozenhacker.com/feed.xml" rel="self" />
-    <link href="https://dozenhacker.com" />
+    <link href="https://82816140.testpublii-2xt.pages.dev/feed.xml" rel="self" />
+    <link href="https://82816140.testpublii-2xt.pages.dev" />
     <updated>2025-09-29T23:22:04+02:00</updated>
     <author>
         <name>jojo</name>
     </author>
-    <id>https://dozenhacker.com</id>
+    <id>https://82816140.testpublii-2xt.pages.dev</id>
 
     <entry>
         <title>second post</title>
         <author>
             <name>jojo</name>
         </author>
-        <link href="https://dozenhacker.com/second-post.html"/>
-        <id>https://dozenhacker.com/second-post.html</id>
+        <link href="https://82816140.testpublii-2xt.pages.dev/second-post.html"/>
+        <id>https://82816140.testpublii-2xt.pages.dev/second-post.html</id>
 
         <updated>2025-09-29T23:22:04+02:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>jojo</name>
         </author>
-        <link href="https://dozenhacker.com/my-first-test.html"/>
-        <id>https://dozenhacker.com/my-first-test.html</id>
+        <link href="https://82816140.testpublii-2xt.pages.dev/my-first-test.html"/>
+        <id>https://82816140.testpublii-2xt.pages.dev/my-first-test.html</id>
 
         <updated>2025-09-29T21:50:31+02:00</updated>
             <summary>

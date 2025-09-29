@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "testsite",
     "description": "",
-    "home_page_url": "https://dozenhacker.com",
-    "feed_url": "https://dozenhacker.com/feed.json",
+    "home_page_url": "https://82816140.testpublii-2xt.pages.dev",
+    "feed_url": "https://82816140.testpublii-2xt.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "jojo"
     },
     "items": [
         {
-            "id": "https://dozenhacker.com/second-post.html",
-            "url": "https://dozenhacker.com/second-post.html",
+            "id": "https://82816140.testpublii-2xt.pages.dev/second-post.html",
+            "url": "https://82816140.testpublii-2xt.pages.dev/second-post.html",
             "title": "second post",
             "summary": "test. the template is missing on cloudflare",
             "content_html": "<p>test. the template is missing on cloudflare</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2025-09-29T23:22:04+02:00"
         },
         {
-            "id": "https://dozenhacker.com/my-first-test.html",
-            "url": "https://dozenhacker.com/my-first-test.html",
+            "id": "https://82816140.testpublii-2xt.pages.dev/my-first-test.html",
+            "url": "https://82816140.testpublii-2xt.pages.dev/my-first-test.html",
             "title": "my first test",
             "summary": "blabla updated for secont sync",
             "content_html": "<p>blabla</p>\n<p>updated for secont sync</p>",
