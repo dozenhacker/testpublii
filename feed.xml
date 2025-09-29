@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>testsite</title>
+    <link href="https://dozenhacker.at/feed.xml" rel="self" />
+    <link href="https://dozenhacker.at" />
+    <updated>2025-09-29T21:50:31+02:00</updated>
+    <author>
+        <name>jojo</name>
+    </author>
+    <id>https://dozenhacker.at</id>
+
+    <entry>
+        <title>my first test</title>
+        <author>
+            <name>jojo</name>
+        </author>
+        <link href="https://dozenhacker.at/my-first-test.html"/>
+        <id>https://dozenhacker.at/my-first-test.html</id>
+
+        <updated>2025-09-29T21:50:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                    blabla
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>blabla</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "testsite",
+    "description": "",
+    "home_page_url": "https://dozenhacker.at",
+    "feed_url": "https://dozenhacker.at/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jojo"
+    },
+    "items": [
+        {
+            "id": "https://dozenhacker.at/my-first-test.html",
+            "url": "https://dozenhacker.at/my-first-test.html",
+            "title": "my first test",
+            "summary": "blabla",
+            "content_html": "<p>blabla</p>",
+            "author": {
+                "name": "jojo"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-29T21:50:31+02:00",
+            "date_modified": "2025-09-29T21:50:31+02:00"
+        }
+    ]
+}
