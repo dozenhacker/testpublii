@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>testsite</title>
+    <title>dozenhackerAT</title>
     <link href="https://dozenhacker.com/feed.xml" rel="self" />
     <link href="https://dozenhacker.com" />
     <updated>2025-09-29T23:22:04+02:00</updated>
     <author>
-        <name>jojo</name>
+        <name>J.Hotter</name>
     </author>
     <id>https://dozenhacker.com</id>
 
     <entry>
         <title>second post</title>
         <author>
-            <name>jojo</name>
+            <name>J.Hotter</name>
         </author>
         <link href="https://dozenhacker.com/second-post.html"/>
         <id>https://dozenhacker.com/second-post.html</id>
@@ -32,7 +32,7 @@
     <entry>
         <title>my first test</title>
         <author>
-            <name>jojo</name>
+            <name>J.Hotter</name>
         </author>
         <link href="https://dozenhacker.com/my-first-test.html"/>
         <id>https://dozenhacker.com/my-first-test.html</id>

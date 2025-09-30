@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "testsite",
+    "title": "dozenhackerAT",
     "description": "",
     "home_page_url": "https://dozenhacker.com",
     "feed_url": "https://dozenhacker.com/feed.json",
     "user_comment": "",
     "icon": "https://dozenhacker.com/media/website/Asset-3.svg",
     "author": {
-        "name": "jojo"
+        "name": "J.Hotter"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "summary": "test. the template is missing on cloudflare",
             "content_html": "<p>test. the template is missing on cloudflare</p>",
             "author": {
-                "name": "jojo"
+                "name": "J.Hotter"
             },
             "tags": [
             ],
@@ -31,7 +31,7 @@
             "summary": "blabla updated for secont sync",
             "content_html": "<p>blabla</p>\n<p>updated for secont sync</p>",
             "author": {
-                "name": "jojo"
+                "name": "J.Hotter"
             },
             "tags": [
             ],
