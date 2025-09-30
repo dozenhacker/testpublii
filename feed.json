@@ -5,14 +5,14 @@
     "home_page_url": "https://dozenhacker.com",
     "feed_url": "https://dozenhacker.com/feed.json",
     "user_comment": "",
-    "icon": "https://dozenhacker.com/media/website/Asset-3.svg",
+    "icon": "https://dozenhacker.com/media/website/SiteLogoRed.svg",
     "author": {
         "name": "J.Hotter"
     },
     "items": [
         {
-            "id": "https://dozenhacker.com/second-post.html",
-            "url": "https://dozenhacker.com/second-post.html",
+            "id": "https://dozenhacker.com/second-post/",
+            "url": "https://dozenhacker.com/second-post/",
             "title": "second post",
             "summary": "test. the template is missing on cloudflare",
             "content_html": "<p>test. the template is missing on cloudflare</p>",
@@ -25,8 +25,8 @@
             "date_modified": "2025-09-29T23:22:04+02:00"
         },
         {
-            "id": "https://dozenhacker.com/my-first-test.html",
-            "url": "https://dozenhacker.com/my-first-test.html",
+            "id": "https://dozenhacker.com/my-first-test/",
+            "url": "https://dozenhacker.com/my-first-test/",
             "title": "my first test",
             "summary": "blabla updated for secont sync",
             "content_html": "<p>blabla</p>\n<p>updated for secont sync</p>",
